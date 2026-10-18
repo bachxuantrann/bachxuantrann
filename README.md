@@ -5,7 +5,7 @@
 **Backend Engineer · Java & Spring Boot**
 Building reliable backend systems and data platforms.
 
-![Profile views](https://komarev.com/ghpvc/?username=bachxuantrann&label=Profile%20views&color=0e75b6&style=flat)
+
 
 </div>
 
